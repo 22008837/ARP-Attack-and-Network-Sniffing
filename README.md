@@ -40,9 +40,11 @@ sudo dsnifff
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/3f565d9f-68ab-42f1-a5c8-42fe04acefdd) 
 
-## wireshark :
+## Wireshark:
 Invoke the wireshark and examine the various menus  and controls of the tool:
-![ws](https://github.com/Reebak04/ARP-Attack-and-Network-Sniffing/assets/118364993/53d046a7-f3d4-44db-b00c-4757086bb690)
+## Output:
+![5)](https://github.com/user-attachments/assets/8de52d49-3015-4ec6-afc3-a4fd0c217e0d)
+ 
 ## ettercap :
 ettercap supports active and passive dissection of many protocols and includes many features for network and host analysis.
 ![ettercap](https://github.com/Reebak04/ARP-Attack-and-Network-Sniffing/assets/118364993/88e2faef-2c64-410b-bcce-0072e4d0f85f)
